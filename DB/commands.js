@@ -1,3 +1,3 @@
-createEmployee(employee) {
-    return this.connection.query("In)
-}
+// createEmployee(employee) {
+//     return this.connection.query()
+// }
