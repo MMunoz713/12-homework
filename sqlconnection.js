@@ -84,4 +84,4 @@ connection.query = util.promisify(connection.query);
 
 module.exports = sqlconnection;
 
-//this file would initiate the app and 
+//this file would initiate the app and prompt questions in the termal for making a management system.
